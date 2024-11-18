@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/SubmarinePHP/.github/main/profile/Logo.png" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/SubmarinePHP/.github/main/profile/Logo.png" width="600"></a></p>
 
 ## About SubmarinePHP
 
